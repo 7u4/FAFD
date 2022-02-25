@@ -11,7 +11,7 @@
  #### Step 2: Copy link raw Github and paste to uBlock Origin Extension.
   <html> 
     <p align="center"> 
-      <a href="https://raw.githubusercontent.com/hungphambkc/ADNE/main/FAFD.txt">ADNE </a>
+      <a href="https://raw.githubusercontent.com/hungphambkc/ADNE/main/FAFD.txt">FAFD </a>
     </p>
   </html>
   
