@@ -325,6 +325,16 @@ phim1080z.com,fim1080.com##.catfish.banner-0.balloon-left.banner-balloon.ff-bann
 platinumcineplex.vn##[id^="fancybox"]
 play.tclup.com##.body > .modal
 quora.com##.cta_case_rules
+quantrimang.com##.sticky
+quantrimang.com##.is_stuck.sticky
+quantrimang.com##.box-section.adbox
+quantrimang.com##.adsense.clearfix.adbox
+quantrimang.com###adsinfeed
+quantrimang.com###adunderarticle
+quantrimang.com###adsposttop.adsense
+quantrimang.com###adrighttoplinks
+quantrimang.com###adsgooglesuggestion
+quantrimang.com###adrighttop.adsense.adbox
 ragezone.com##.rzone_ads
 ragezone.com##.social-counter
 raovatdalat.vn##.share-ad-zone.top-banner
@@ -1536,6 +1546,8 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||33k1.com
 ||5123b.com
 ||8123b.com
+||adrealclick.com
+||amplitude.com
 ||augu3yhd485st.com
 ||adtelligent.com
 ||adoptum.net
@@ -1560,6 +1572,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||aphycolourses.info
 ||adminevcache.stg.us-east-1.dyntest.netflix.net
 ||ads.test.netflix.com
+||btloader.com
 ||beacon.netflix.com
 ||beacon.geo.netflix.com
 ||beaconimages.netflix.net
@@ -1581,6 +1594,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||clip-sex.biz
 ||cosplay-jav.com
 ||choirikvip.net
+||carbonads.com
 ||cdn.*/static/js/amvn.js
 ||duoctu-hd.edu.vn/2021_*/
 ||doithuong247.club
@@ -1614,6 +1628,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||ee66.com
 ||ee77.com
 ||ee88.com
+||effirst.com
 ||fb88.com
 ||fb88vn.com
 ||fb88go.com
@@ -1643,7 +1658,10 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||firstimpression.io
 ||fabetsport.com
 ||freddyoctavio.pro/am-push-cps.js
+||getsitecontrol.com
 ||gg678.com
+||gj.mmstat.com
+||gm.mmstat.com
 ||gaigoi18.cc
 ||g1k63t.tw
 ||highmaidfhr.com
@@ -1758,6 +1776,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||m88.vin
 ||m88sut.com
 ||may88.win
+||m.servedby-buysellads.com
 ||nhakai.com
 ||nymzz3.tw
 ||nuuk9g.tw
@@ -1772,8 +1791,10 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||nathanaeldan.pro/am-push-cps.js
 ||o2yms3.tw
 ||onejav.com
+||otnolatrnup.com
 ||orquideassp.com
 ||orvilleandrea.pro/am-push-cps.js
+||olalive-storage.s3.ap-southeast-1.amazonaws.com/assets/banner-images/*
 ||phallicuncut.com
 ||phagosyfa.com
 ||prgznhukaoggg.com
@@ -1804,6 +1825,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||pcltk3.tw
 ||qlmqzznfcb.com
 ||qsmfqeubxlgma.top
+||quantcast.mgr.consensu.org
 ||r6i1zp.tw
 ||red88.us
 ||rikvip.us
@@ -1815,8 +1837,11 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||realsrv.com
 ||run-syndicate.com
 ||runative-syndicate.com
+||ravenjs.com
 ||skhcn.binhphuoc.gov.vn/Android/*
 ||soytehoabinh.gov.vn/2021/*.html
+||ssm.codes
+||static.ads-twitter.com
 ||sflywfcanq.com
 ||sodoplay.com
 ||sodogame.com
@@ -1901,6 +1926,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||vn138bet.com
 ||vwin.com
 ||vwthethao.club
+||vdo.ai
 ||webnena.com
 ||winnhacai.com
 ||whazugho.com
