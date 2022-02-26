@@ -329,11 +329,13 @@ quantrimang.com##.sticky
 quantrimang.com##.is_stuck.sticky
 quantrimang.com##.box-section.adbox
 quantrimang.com##.adsense.clearfix.adbox
+quantrimang.com##div#adindexcenter.adsense.adbox:*
 quantrimang.com###adsinfeed
 quantrimang.com###adunderarticle
 quantrimang.com###adsposttop.adsense
 quantrimang.com###adrighttoplinks
 quantrimang.com###adsgooglesuggestion
+quantrimang.com###adindexcenterbox
 quantrimang.com###adrighttop.adsense.adbox
 ragezone.com##.rzone_ads
 ragezone.com##.social-counter
