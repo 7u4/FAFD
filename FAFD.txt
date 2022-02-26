@@ -166,6 +166,8 @@ assets/pub/shareaholic*
 searchTrack.php?
 yts/swfbin/player-vfl*/ad*.swf
 ! ========================== Element Hiding Per Site ==========================
+123link.biz##.bounceInDown.animated.jquery-adi_content
+123link.biz##.dark.i-said-no-thing-can-stop-me-warning
 24h.com.vn###ReplayAd
 24h.com.vn##[class*="banner"]
 24h.com.vn##[id^="crt-"]
@@ -1591,6 +1593,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||danhsachnhacai.com
 ||deehalig.net
 ||ditnhe.xyz
+||displayvertising.com
 ||d1nmxiiewlx627.cloudfront.net
 ||estats.netflix.com
 ||euro04.co.uk
@@ -1905,3 +1908,5 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||xvideos-cdn.com
 ||y1n8gv.tw
 ||yulunanews.name
+||yoads.network
+||yoads.net
