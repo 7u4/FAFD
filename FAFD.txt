@@ -229,6 +229,8 @@ clbgamesvn.com###contentMain center
 cvt.vn##.headbanner
 cafebiz.vn##.bgadmtoptotal
 cafebiz.vn##.adm-rightsection.contentright2.contentright
+downfile.site###orquidea-slideup
+downfile.site###orquidea-slideup-ad-slot
 dangcaphd.com##.block-banner
 dantri.com.vn##.admicro
 dantri.com.vn###bannerMasthead
@@ -1710,6 +1712,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||javsts.com
 ||jads.co
 ||je4k0e.tw
+||jmtomcgqnsczl.com
 ||k69svb.tw
 ||kfwzxu.tw
 ||keobet88.com
@@ -1751,6 +1754,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||nathanaeldan.pro/am-push-cps.js
 ||o2yms3.tw
 ||onejav.com
+||orquideassp.com
 ||orvilleandrea.pro/am-push-cps.js
 ||phagosyfa.com
 ||playgamefa88.live
@@ -1774,8 +1778,10 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||phimporn.net
 ||phymsex.com
 ||propu.sh
+||pookawnratbite.com
 ||p-ussy.com
 ||pcltk3.tw
+||qlmqzznfcb.com
 ||r6i1zp.tw
 ||red88.us
 ||rikvip.us
@@ -1785,6 +1791,8 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||rikvipclub.us
 ||rndskittytor.com
 ||realsrv.com
+||run-syndicate.com
+||runative-syndicate.com
 ||skhcn.binhphuoc.gov.vn/Android/*
 ||soytehoabinh.gov.vn/2021/*.html
 ||sodoplay.com
