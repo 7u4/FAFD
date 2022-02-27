@@ -369,6 +369,8 @@ tangthuvien.vn###sidebar
 tapchicntt.com###text-html-widget-14
 techrum.vn##.sharePage
 techrum.vn##.vip_ad_div
+techrum.vn##.porta-articles-above-full
+techrum.vn##.porta-articles-below-full
 thamhue.com###ad_global_below_navbar
 thamhue.com###sidebar
 thiendia.com##.my_responsive_ads
@@ -472,12 +474,20 @@ voz.vn##body[data-template="forum_view"] .p-body-sidebar
 voz.vn##body[data-template="thread_view"] .p-body-sidebar
 xervoo.net###_bd
 xervoo.net##.black_overlay
+youtube.com##.iv-click-target
+youtube.com##.ytp-cards-button
+youtube.com##.ytp-cards-teaser
 youtube.com###feed-pyv-container
 youtube.com###video-masthead
 youtube.com###watch7-sidebar-ads
 youtube.com##.pyv-afc-ads-container
 youtube.com##.ytp-ce-element
+youtube.com##.ytp-ce-covering-image
+youtube.com##.ytp-ce-expanding-image
+youtube.com##.ytp-ce-element-shadow
+youtube.com##.ytp-ce-covering-overlay
 youtube.com##.ytp-ce-element.ytp-ce-element-show
+youtube.com##.ytp-ce-element.ytp-ce-channel.ytp-ce-channel-this
 zippyshare.com###qrCode ~ a[href$="1131386.html"]
 zippyshare.com##.center_ad
 ! ================================= Whitelists ================================
@@ -1533,7 +1543,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||zantbowsing.cam^$third-party
 ||zedo.com^
 ||zjk24.com^$third-party
-! ====================== Host by Kaspersky & Porn & Gambling =====================
+! ====================== Kaspersky & Porn & Gambling =====================
 ||03ed9035a0801f.com
 ||99881288.com
 ||8888bong.com
