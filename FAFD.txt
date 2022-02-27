@@ -375,6 +375,11 @@ thiendia.com##.my_responsive_ads
 thiendia.com##.samThreadPostMessageInside
 thongtincongnghe.com##.scroller-sidebar
 tinhte.vn##.adWidget
+tinhte.vn##.snd.jsx-3866953344
+tinhte.vn##div.bg-white.jsx-3866953344:nth-of-type(1)
+tinhte.vn##.main.jsx-2362097070
+tinhte.vn##.main.jsx-2996626834
+tinhte.vn##.item.jsx-2996626834
 tivi24h.com###bloggernotificationWrap
 tivi24h.com###fbbaiviet
 tivi24h.com###HTML9
@@ -1558,7 +1563,10 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||33k1.com
 ||5123b.com
 ||8123b.com
+||admicro.vn
+||amcdn.vn
 ||ad365.cc
+||adthrive.com
 ||adrealclick.com
 ||amplitude.com
 ||augu3yhd485st.com
@@ -1672,6 +1680,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||fziql.tw
 ||fine.bet
 ||fuq.com
+||fout.jp
 ||firstimpression.io
 ||fabetsport.com
 ||fb88cup.com
@@ -1802,6 +1811,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me
 ||m.servedby-buysellads.com
 ||nhakai.com
+||npttech.com
 ||nymzz3.tw
 ||nuuk9g.tw
 ||nhacaitop.org
