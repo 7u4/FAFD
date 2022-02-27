@@ -431,6 +431,8 @@ truyentranhtuan.com##.doc-truyen-ads-d1
 truyentranhtuan.com##.doc-truyen-ads-d2
 truyentranh24z.com##.banner-preload.ff-banner
 truyentranh24z.com###sponsor-preload
+truyentranh24z.com##.catfish.banner-balloon.ff-banner
+truyentranh24z.com###sponsor-balloon
 tuoitre.vn###adsMainFooter
 tuoitre.vn##.adm-bot
 tuoitre.vn##[class^="block-ad"]
@@ -1578,6 +1580,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||admitad-connect.com
 ||advg.agency
 ||aphycolourses.info
+||advcash.com
 ||adminevcache.stg.us-east-1.dyntest.netflix.net
 ||ads.test.netflix.com
 ||btloader.com
@@ -1592,6 +1595,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||bet88top.com
 ||bet20.bet
 ||blognhacai.com
+||betsonsport.ru
 ||baotanghochiminh.vn/games/*
 ||cado188.com
 ||coinn2019.com
@@ -1835,6 +1839,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||pookawnratbite.com
 ||p-ussy.com
 ||pcltk3.tw
+||pinnacle.com
 ||qlmqzznfcb.com
 ||qsmfqeubxlgma.top
 ||quantcast.mgr.consensu.org
@@ -1853,6 +1858,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||skhcn.binhphuoc.gov.vn/Android/*
 ||soytehoabinh.gov.vn/2021/*.html
 ||ssm.codes
+||stavkiprognozy.ru
 ||static.ads-twitter.com
 ||sflywfcanq.com
 ||sodoplay.com
