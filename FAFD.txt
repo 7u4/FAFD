@@ -1,7 +1,7 @@
 ! Title: FAFD
 ! Version: 1.0
-! Last modified: 25/02/2022
-! Homepage: github.com/hungphambkc/ADNE
+! Last modified: 27/02/2022
+! Homepage: github.com/hungphambkc/FAFD
 ! Author: Hung Pham
 ! ========================== General Element Hiding ===========================
 ###ad_float_right
@@ -330,7 +330,11 @@ quantrimang.com##.is_stuck.sticky
 quantrimang.com##.box-section.adbox
 quantrimang.com##.adsense.clearfix.adbox
 quantrimang.com##div#adindexcenter.adsense.adbox
+quantrimang.com##div.in-article.adsense.adbox
 quantrimang.com###adsinfeed
+quantrimang.com###articleads
+quantrimang.com###articleads2
+quantrimang.com###articleads3
 quantrimang.com###adunderarticle
 quantrimang.com###adsposttop.adsense
 quantrimang.com###adrighttoplinks
@@ -425,6 +429,8 @@ truyentranhlh.net##.preload2
 truyentranhtuan.com###banner_preload
 truyentranhtuan.com##.doc-truyen-ads-d1
 truyentranhtuan.com##.doc-truyen-ads-d2
+truyentranh24z.com##.banner-preload.ff-banner
+truyentranh24z.com###sponsor-preload
 tuoitre.vn###adsMainFooter
 tuoitre.vn##.adm-bot
 tuoitre.vn##[class^="block-ad"]
@@ -1630,6 +1636,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||ee66.com
 ||ee77.com
 ||ee88.com
+||evidon.com
 ||effirst.com
 ||fb88.com
 ||fb88vn.com
@@ -1659,7 +1666,9 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||fuq.com
 ||firstimpression.io
 ||fabetsport.com
+||fb88cup.com
 ||freddyoctavio.pro/am-push-cps.js
+||ff.imacdn.com/img/*.jpg
 ||getsitecontrol.com
 ||gg678.com
 ||gj.mmstat.com
@@ -1688,6 +1697,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||hoicongchungvienbinhduong.com.vn/down/*
 ||iclickcdn.com
 ||ijavhd.com
+||i99909.com
 ||itineraryupper.com
 ||izingbalaic.casa
 ||i8bet.org
