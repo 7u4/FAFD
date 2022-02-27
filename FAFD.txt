@@ -380,6 +380,9 @@ tinhte.vn##div.bg-white.jsx-3866953344:nth-of-type(1)
 tinhte.vn##.main.jsx-2362097070
 tinhte.vn##.main.jsx-2996626834
 tinhte.vn##.item.jsx-2996626834
+tinhte.vn##.in-article-promo-title.jsx-1268062893
+tinhte.vn##.false.in-article-promo.jsx-1268062893
+tinhte.vn##.desktopOnly.pro-container.jsx-2015658151
 tivi24h.com###bloggernotificationWrap
 tivi24h.com###fbbaiviet
 tivi24h.com###HTML9
