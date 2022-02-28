@@ -515,6 +515,9 @@ zippyshare.com##.center_ad
 @@||click.linksynergy.com/deeplink?$popup
 @@||cuongphim.com/*/adblock-detector/*
 @@||d33wubrfki0l68.cloudfront.net/*/*/themes/*/*.png$image,domain=themes.gohugo.io
+@@||d33wubrfki0l68.cloudfront.net/*/*/images/sponsors/*.png$image,domain=themes.gohugo.io
+@@||d33wubrfki0l68.cloudfront.net/*/*/images/sponsors/*.svg$image,domain=themes.gohugo.io
+@@||d33wubrfki0l68.cloudfront.net/*/*/images/*.svg$image,domain=themes.gohugo.io
 @@||facebook.com/ads/*$xmlhttprequest
 @@||facebook.com/ajax/feed/filter_action/dialog_direct_action_ads/?*
 @@||facebook.com/dialog/oauth?*
