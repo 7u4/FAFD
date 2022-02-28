@@ -488,6 +488,7 @@ youtube.com##.ytp-ce-element-shadow
 youtube.com##.ytp-ce-covering-overlay
 youtube.com##.ytp-ce-element.ytp-ce-element-show
 youtube.com##.ytp-ce-element.ytp-ce-channel.ytp-ce-channel-this
+youtube.com##.ytp-autohide-active.ytp-autohide.playing-mode.ad-interrupting.ad-showing.ad-created.ytp-autonav-endscreen-cancelled-state.ytp-large-width-mode.ytp-hide-info-bar.ytp-exp-ppp-update.ytp-larger-tap-buttons.ytp-exp-bottom-control-flexbox.ytp-transparent.html5-video-player
 zippyshare.com###qrCode ~ a[href$="1131386.html"]
 zippyshare.com##.center_ad
 ! ================================= Whitelists ================================
@@ -1647,7 +1648,12 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||deehalig.net
 ||ditnhe.xyz
 ||displayvertising.com
+||d12u7tum9sda5e.cloudfront.net
+||d13nu0oomnx5ti.cloudfront.net
+||d13pxqgp3ixdbh.cloudfront.net
+||d1xkyo9j4r7vnn.cloudfront.net
 ||d1nmxiiewlx627.cloudfront.net
+||d33wubrfki0l68.cloudfront.net
 ||d3mx8nrn6uaeao.cloudfront.net
 ||d3mzokty951c5w.cloudfront.net
 ||d3n3a4vl82t80h.cloudfront.net
