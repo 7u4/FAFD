@@ -1,6 +1,6 @@
 ! Title: FAFD
 ! Version: 1.0
-! Last modified: 28/02/2022
+! Last modified: 29/02/2022
 ! Homepage: github.com/hungphambkc/FAFD
 ! Author: Hung Pham
 ! ========================== General Element Hiding ===========================
@@ -518,6 +518,7 @@ zippyshare.com##.center_ad
 @@||d33wubrfki0l68.cloudfront.net/*/*/images/sponsors/*.png$image,domain=gohugo.io
 @@||d33wubrfki0l68.cloudfront.net/*/*/images/sponsors/*.svg$image,domain=gohugo.io
 @@||d33wubrfki0l68.cloudfront.net/*/*/images/*.svg$image,domain=gohugo.io
+@@||d33wubrfki0l68.cloudfront.net/*/*/showcase/*/*.png$image,domain=gohugo.io
 @@||facebook.com/ads/*$xmlhttprequest
 @@||facebook.com/ajax/feed/filter_action/dialog_direct_action_ads/?*
 @@||facebook.com/dialog/oauth?*
@@ -1991,6 +1992,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||vwin.com
 ||vwthethao.club
 ||vdo.ai
+||vn-gmtdmp.mookie1.com
 ||webnena.com
 ||winnhacai.com
 ||whazugho.com
