@@ -406,10 +406,13 @@ download.tienichmaytinh.net##.shadow.card > .adsbygoogle
 download.tienichmaytinh.net##.container > .adsbygoogle
 topbongda.com##.tkb
 topbongda.com##[class*="fadeIn"]
+truongblogger.top##.ads-sf
 truongblogger.top##.ads-left
 truongblogger.top##.ads-right
 truongblogger.top##.separator-text
+truongblogger.top##.keep-adsme
 truongblogger.top##ins.adsbygoogle-noablate.adsbygoogle
+truongblogger.top###keep-ads
 truyendoc.info##[data-original^="http://imgg-cdn.steepto.com"]
 truyenfull.vn###chapter-c > div[id^="taitro-"]
 truyenfull.vn##.ads-responsive
