@@ -406,8 +406,10 @@ download.tienichmaytinh.net##.shadow.card > .adsbygoogle
 download.tienichmaytinh.net##.container > .adsbygoogle
 topbongda.com##.tkb
 topbongda.com##[class*="fadeIn"]
-torviet.com###leftBanner1Ky
-torviet.com###rightBanner1Ky
+truongblogger.top##.ads-left
+truongblogger.top##.ads-right
+truongblogger.top##.separator-text
+truongblogger.top##ins.adsbygoogle-noablate.adsbygoogle
 truyendoc.info##[data-original^="http://imgg-cdn.steepto.com"]
 truyenfull.vn###chapter-c > div[id^="taitro-"]
 truyenfull.vn##.ads-responsive
@@ -514,11 +516,6 @@ zippyshare.com##.center_ad
 @@||cdnviet.com/static/layout/images/logo.png$third-party
 @@||click.linksynergy.com/deeplink?$popup
 @@||cuongphim.com/*/adblock-detector/*
-@@||d33wubrfki0l68.cloudfront.net/*/*/themes/*/*.png$image,domain=gohugo.io
-@@||d33wubrfki0l68.cloudfront.net/*/*/images/sponsors/*.png$image,domain=gohugo.io
-@@||d33wubrfki0l68.cloudfront.net/*/*/images/sponsors/*.svg$image,domain=gohugo.io
-@@||d33wubrfki0l68.cloudfront.net/*/*/images/*.svg$image,domain=gohugo.io
-@@||d33wubrfki0l68.cloudfront.net/*/*/showcase/*/*.png$image,domain=gohugo.io
 @@||facebook.com/ads/*$xmlhttprequest
 @@||facebook.com/ajax/feed/filter_action/dialog_direct_action_ads/?*
 @@||facebook.com/dialog/oauth?*
@@ -1585,6 +1582,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||admicro.vn
 ||amcdn.vn
 ||ad365.cc
+||adingo.jp
 ||adthrive.com
 ||adrealclick.com
 ||amplitude.com
@@ -1658,7 +1656,6 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||d13pxqgp3ixdbh.cloudfront.net
 ||d1xkyo9j4r7vnn.cloudfront.net
 ||d1nmxiiewlx627.cloudfront.net
-||d33wubrfki0l68.cloudfront.net
 ||d3mx8nrn6uaeao.cloudfront.net
 ||d3mzokty951c5w.cloudfront.net
 ||d3n3a4vl82t80h.cloudfront.net
@@ -1711,6 +1708,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||fadingamendable.com
 ||freddyoctavio.pro/am-push-cps.js
 ||ff.imacdn.com/img/*.jpg
+||googleads.g.doubleclick.net
 ||getsitecontrol.com
 ||gg678.com
 ||gj.mmstat.com
@@ -1853,6 +1851,8 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||orquideassp.com
 ||orvilleandrea.pro/am-push-cps.js
 ||olalive-storage.s3.ap-southeast-1.amazonaws.com/assets/banner-images/*
+||pagead2.googlesyndication.com
+||pagead2.googleadservices.com
 ||phallicuncut.com
 ||phagosyfa.com
 ||prgznhukaoggg.com
