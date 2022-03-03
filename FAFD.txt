@@ -413,6 +413,8 @@ truongblogger.top##.separator-text
 truongblogger.top##.keep-adsme
 truongblogger.top##ins.adsbygoogle-noablate.adsbygoogle
 truongblogger.top###keep-ads
+truongblogger.top###HTML2
+truongblogger.top###HTML14
 truyendoc.info##[data-original^="http://imgg-cdn.steepto.com"]
 truyenfull.vn###chapter-c > div[id^="taitro-"]
 truyenfull.vn##.ads-responsive
@@ -1659,6 +1661,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||d13pxqgp3ixdbh.cloudfront.net
 ||d1xkyo9j4r7vnn.cloudfront.net
 ||d1nmxiiewlx627.cloudfront.net
+||d3e54v103j8qbb.cloudfront.net
 ||d3mx8nrn6uaeao.cloudfront.net
 ||d3mzokty951c5w.cloudfront.net
 ||d3n3a4vl82t80h.cloudfront.net
