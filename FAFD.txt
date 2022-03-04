@@ -1829,6 +1829,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||javtop1.tv
 ||javvn.net
 ||javf1.com
+||javfilm.tv
 ||javplay.stream
 ||javteentube.com
 ||javtrailers.com
