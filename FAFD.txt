@@ -1716,6 +1716,8 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||eubetvn.com
 ||ek88.com
 ||ek883.com
+||egccckiurb.com
+||e2ertt.com
 ||employeechannelinc.com
 ||fun213213.com
 ||fun7778.com
@@ -1830,6 +1832,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||javvn.net
 ||javf1.com
 ||javfilm.tv
+||javfilm.us
 ||javplay.stream
 ||javteentube.com
 ||javtrailers.com
@@ -1949,6 +1952,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||olalive-storage.s3.ap-southeast-1.amazonaws.com/assets/banner-images/*
 ||pagead2.googlesyndication.com
 ||pagead2.googleadservices.com
+||propeller-tracking.com
 ||phallicuncut.com
 ||phagosyfa.com
 ||prgznhukaoggg.com
@@ -1984,6 +1988,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||quantcast.mgr.consensu.org
 ||r6i1zp.tw
 ||ronghovn.com
+||rtmark.net
 ||red88.us
 ||rikvip.us
 ||rikvip.me
