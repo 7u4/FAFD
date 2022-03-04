@@ -1686,8 +1686,10 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||danhsachnhacai.com
 ||debet.info
 ||deehalig.net
+||dewiestsards.com
 ||ditnhe.xyz
 ||displayvertising.com
+||d1clmik8la8v65.cloudfront.net
 ||d12u7tum9sda5e.cloudfront.net
 ||d13nu0oomnx5ti.cloudfront.net
 ||d13pxqgp3ixdbh.cloudfront.net
