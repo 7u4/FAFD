@@ -1593,11 +1593,14 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||33k1.com
 ||4hfchest5kdnfnut.com
 ||5123b.com
+||5toft8or7on8tt.com
 ||6788bet.com
+||7ca78m3csgbrid7ge.com
 ||8123b.com
 ||8xbet07.com
 ||affitop.com
 ||ae788.net
+||aevn1.net
 ||australiannationalparks.com
 ||asianbetting.net
 ||ascolicalcio.net
@@ -1655,6 +1658,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||blognhacai.com
 ||bongso88.com
 ||betsonsport.ru
+||beeg1.net
 ||baotanghochiminh.vn/games/*
 ||cado188.com
 ||caoviet.net
@@ -1663,6 +1667,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||cambongda.live
 ||casio67.club
 ||comebetvn2.com
+||chich.vip
 ||chuthapdohatinh.org.vn/upload/tailieu/*.htm
 ||caodangytetg.edu.vn/Android/*
 ||caodangytetg.edu.vn/games/*
@@ -1708,6 +1713,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||d4el4parm0zb3.cloudfront.net
 ||d4t3qr9j8psi0.cloudfront.net
 ||d4z1onkegyrs5.cloudfront.net
+||ditvl.pro
 ||estats.netflix.com
 ||euro04.co.uk
 ||ee66.com
@@ -1765,6 +1771,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||googleads.g.doubleclick.net
 ||getsitecontrol.com
 ||gg678.com
+||gaixinhsg.xyz
 ||gj.mmstat.com
 ||gm.mmstat.com
 ||gaigoi18.cc
@@ -1906,6 +1913,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||licensesoft.vn/app/*
 ||lophocsex.xyz
 ||mu9.win
+||mafrarc3e9h.com
 ||maryannecg.com
 ||mossens.com
 ||medyabk.com
@@ -1941,6 +1949,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||nhacaitotnhat.com
 ||nomorepecans.com
 ||newreven.com
+||no2veeamggaseber.com
 ||ntsiwodere.top
 ||nessainy.net
 ||nestledmph.com
@@ -1963,6 +1972,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||phoalard.net
 ||pierisrapgae.com
 ||podosupsurge.com
+||phimsex-hd.pro
 ||pornhub.com
 ||pornpic.org
 ||pornolaba.mobi
@@ -1977,6 +1987,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||phimsexkhongche.club
 ||phimsexhaymoi.net
 ||phimnguoilon.pro
+||phimsex2022.com
 ||phimyy.com
 ||phimporn.net
 ||phymsex.com
@@ -2059,6 +2070,8 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||tlu.edu.vn/app/*
 ||tlu.edu.vn/down/*
 ||tlu.edu.vn/ios/*
+||themlon.pro
+||themsex.pro
 ||thongtinnhacai.net
 ||thethao88bet.com
 ||thethao88.bet
@@ -2156,6 +2169,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||xads.codon.vn
 ||xvideos-vn.com
 ||xvideos-cdn.com
+||xvideovn.pro
 ||xmlrtb.com
 ||y1n8gv.tw
 ||yulunanews.name
