@@ -1,6 +1,6 @@
 ! Title: FAFD
 ! Version: 1.0
-! Last modified: 04/03/2022
+! Last modified: 05/03/2022
 ! Homepage: github.com/hungphambkc/FAFD
 ! Author: Hung Pham
 ! ========================== General Element Hiding ===========================
@@ -1636,6 +1636,17 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||advcash.com
 ||adminevcache.stg.us-east-1.dyntest.netflix.net
 ||ads.test.netflix.com
+||anymind360.com
+||adtima-common.zadn.vn
+||adtima-common.zascdn.me
+||adtima-media-td.zadn.vn
+||adtima-media.zadn.vn
+||adtima-media.zascdn.me
+||adtima-static.zadn.vn
+||adtima-static.zascdn.me
+||adtima-video.zadn.vn
+||adtima-video.zascdn.me
+||advserver.cgv.vn
 ||btloader.com
 ||beholdascared.com
 ||beacon.netflix.com
@@ -1660,6 +1671,8 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||betsonsport.ru
 ||beeg1.net
 ||baotanghochiminh.vn/games/*
+||click.vieon.vn
+||cdnt.netcoresmartech.com
 ||cado188.com
 ||caoviet.net
 ||coinn2019.com
@@ -1677,6 +1690,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||carbonads.com
 ||comocalcio1907.com
 ||cdn.*/static/js/amvn.js
+||delivery.vtc.vn
 ||duoctu-hd.edu.vn/2021_*/
 ||doithuong247.club
 ||doithuongonline.club
@@ -1724,6 +1738,8 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||eubetvn.com
 ||ek88.com
 ||ek883.com
+||effectiveperformanceformat.com
+||effectivecpmgate.com
 ||egccckiurb.com
 ||e2ertt.com
 ||employeechannelinc.com
@@ -2081,6 +2097,8 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||topsexhd.net
 ||thaudray.com
 ||toglooman.com
+||ta3nfsordd.com
+||trustedgatetocontent.com
 ||taghaugh.com
 ||ttgmjfgldgv9ed10.com
 ||tolyafbnjt9dedjj10.com
