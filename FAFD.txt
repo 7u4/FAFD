@@ -1681,6 +1681,9 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||casio67.club
 ||comebetvn2.com
 ||chich.vip
+||qc.coccoc.com
+||coccoc.com/quang-cao
+||coccoc.com/quang-cao-banner
 ||chuthapdohatinh.org.vn/upload/tailieu/*.htm
 ||caodangytetg.edu.vn/Android/*
 ||caodangytetg.edu.vn/games/*
