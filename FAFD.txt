@@ -273,6 +273,7 @@ google.com,google.com.vn##.ads-ad
 hanoicomputer.vn###highstreet
 hdvietnam.com###youtube.secondaryContent
 hdvip.tv##.rightleftads
+kenh14.vn##.khw-adk14-wrapper
 keonhacai.net##.AdsDesktop-header
 ketcau.com##TD[width="140"][valign="top"]
 ketqua.net##.float-qc-left
@@ -2153,6 +2154,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||vwin.com
 ||vwthethao.club
 ||vdo.ai
+||vektprava.ru
 ||vn88win.live
 ||vn-gmtdmp.mookie1.com
 ||webnena.com
