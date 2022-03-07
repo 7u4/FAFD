@@ -1805,6 +1805,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||garena.vin
 ||gamevui86.com
 ||go88vn.top
+||go88vn.cc
 ||go88.mobi
 ||gogo88.me
 ||go88v2.com
@@ -1812,6 +1813,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||go88.codes
 ||go88.link
 ||go88.one
+||go88.info
 ||go88code.com
 ||go88-vn.net
 ||go88bet.net
@@ -1921,6 +1923,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||jbovietnam.com
 ||katmandu-inc.com
 ||ku.fun
+||kucdn.net
 ||kudv.net
 ||kubet.gg
 ||kubet.ac
@@ -2263,6 +2266,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||vn-gmtdmp.mookie1.com
 ||webnena.com
 ||win10.vn
+||www-go88.vin
 ||w99.vn
 ||w1ft1qku.cn
 ||winnhacai.com
