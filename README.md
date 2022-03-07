@@ -1,4 +1,4 @@
-# FAFD Ads Block for uBlock Origin in Vietnam.
+# FAFD Ads, Gamling Block for uBlock Origin in Vietnam.
 # Source web by Kaspersky, National Cyber Security Center of Vietnam, chongluadao.vn
   #### Step 1: Install Extension uBlock Origin
    <html> 
