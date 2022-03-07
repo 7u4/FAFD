@@ -1,7 +1,9 @@
 ! Title: FAFD
 ! Version: 1.0
-! Last modified: 05/03/2022
+! Last modified: 07/03/2022
 ! Homepage: github.com/hungphambkc/FAFD
+! Source:	chongluadao.vn/thong-ke
+			Kaspersky, National Cyber Security Center of Vietnam,...
 ! Author: Hung Pham
 ! ========================== General Element Hiding ===========================
 ###ad_float_right
@@ -1648,6 +1650,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||adtima-video.zadn.vn
 ||adtima-video.zascdn.me
 ||advserver.cgv.vn
+||airlinebot.io
 ||btloader.com
 ||beholdascared.com
 ||beacon.netflix.com
@@ -1658,6 +1661,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||bjkaihong.com
 ||bonesuk.com
 ||bwfncx.tw
+||botgamevips.com
 ||berlipurplin.com
 ||bestjavporn.com
 ||bet88top.com
@@ -1689,6 +1693,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||caodangytetg.edu.vn/Android/*
 ||caodangytetg.edu.vn/games/*
 ||clip-sex.biz
+||click168.me
 ||cosplay-jav.com
 ||choirikvip.net
 ||carbonads.com
@@ -1731,7 +1736,9 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||d4el4parm0zb3.cloudfront.net
 ||d4t3qr9j8psi0.cloudfront.net
 ||d4z1onkegyrs5.cloudfront.net
+||dinamomatbaa.com
 ||ditvl.pro
+||deqik.com
 ||estats.netflix.com
 ||euro04.co.uk
 ||ee66.com
@@ -1774,6 +1781,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||fun162.com
 ||fun2008.com
 ||fun88wow.com
+||fun8b.com
 ||fxcgm6.tw
 ||fziql.tw
 ||fine.bet
@@ -1788,14 +1796,18 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||fadingamendable.com
 ||freddyoctavio.pro/am-push-cps.js
 ||ff.imacdn.com/img/*.jpg
+||goeastvalley.com
 ||googleads.g.doubleclick.net
 ||getsitecontrol.com
+||garena.vin
+||gl5.vip
 ||gg678.com
 ||gaixinhsg.xyz
 ||gj.mmstat.com
 ||gm.mmstat.com
 ||gaigoi18.cc
 ||g1k63t.tw
+||hdcredit88.com
 ||highmaidfhr.com
 ||heratheacle.com
 ||hdxx.top
@@ -1815,6 +1827,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||heodem.com
 ||hdxxx.top
 ||hypomnimata.com
+||hieutbkhn.com
 ||hoicongchungvienbinhduong.com.vn/Android/*
 ||hoicongchungvienbinhduong.com.vn/down/*
 ||iclickcdn.com
@@ -1889,6 +1902,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||jewgn8une.com
 ||jmtomcgqnsczl.com
 ||jbovietnam.com
+||katmandu-inc.com
 ||ku11.net
 ||ku6110.net
 ||kubet24h.co
@@ -1898,6 +1912,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||keonha.info
 ||keo365.com
 ||kc6.com
+||ks96.vip
 ||kubet3.win
 ||ktokto.mobi
 ||ktoviet.com
@@ -1918,6 +1933,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||link88betvn.com
 ||linknhacai88.com
 ||letou.com
+||lavas.exchange
 ||lordayroig.com
 ||letou86.com
 ||letou38.com
@@ -1932,6 +1948,8 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||licensesoft.vn/games/*
 ||licensesoft.vn/app/*
 ||lophocsex.xyz
+||moonata.net
+||momovn.me
 ||mu9.win
 ||man.vn
 ||mage98rquewz.com
@@ -1955,6 +1973,8 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||m.servedby-buysellads.com
 ||nhakai.com
 ||nbet.win
+||nemo.vin
+||nohu52.net
 ||npttech.com
 ||nhacai.info
 ||nhacai.org
@@ -2019,6 +2039,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||pookawnratbite.com
 ||p-ussy.com
 ||pcltk3.tw
+||phdaimon.io
 ||pinnacle.com
 ||qlmqzznfcb.com
 ||qsmfqeubxlgma.top
@@ -2041,6 +2062,8 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||skhcn.binhphuoc.gov.vn/Android/*
 ||soytehoabinh.gov.vn/2021/*.html
 ||ssm.codes
+||storm-x.io
+||smartchoice89.com
 ||subjavhd.com
 ||sexapi.xyz
 ||stream321.xyz
@@ -2050,6 +2073,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||stavkiprognozy.ru
 ||static.ads-twitter.com
 ||sflywfcanq.com
+||sodo15.com
 ||shbet0.com
 ||sbotop.com
 ||sodoplay.com
@@ -2078,7 +2102,9 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||sextop123.com
 ||sexquaylen.net
 ||spankbang.com
+||shopkcffx5.com
 ||subjav.tv
+||tazogames.com
 ||tairikvip.org
 ||taiiwin.club
 ||taixiu.cc
@@ -2103,6 +2129,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||theporndude.com
 ||trangsex.me
 ||topsexhd.net
+||tanglikefree.online
 ||thaudray.com
 ||toglooman.com
 ||ta3nfsordd.com
@@ -2158,11 +2185,13 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||vn88win.live
 ||vn-gmtdmp.mookie1.com
 ||webnena.com
+||win10.vn
 ||winnhacai.com
 ||whazugho.com
 ||widow5blackfr.com
 ||webphimsex.net
 ||webphimsex.org
+||win9907.com
 ||w88f1.com
 ||xemset.net
 ||xemsextop.net
