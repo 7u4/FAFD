@@ -1,6 +1,6 @@
 ! Title: FAFD
 ! Version: 1.0
-! Last modified: 07/03/2022
+! Last modified: 11/03/2022
 ! Homepage: github.com/hungphambkc/FAFD
 ! Source:	chongluadao.vn/thong-ke
 			Kaspersky, National Cyber Security Center of Vietnam,...
@@ -353,6 +353,10 @@ rapidgator.net##[id*="_banner"]
 razorphim.com##.module_home_ads
 rutor.info##.b_tz_on_top
 subscene.com##.banner
+smailpro.com###bsa-zone_1643057563258-5_123456
+smailpro.com##.text-center.my-2.py-2.bg-gray-200.shadow-inner.w-full
+tailieu.vn##.fleft.doc300 > div > .adsbygoogle
+tailieutuoi.com##.overflow-y-auto.inset-0.z-10.fixed
 taimienphi.vn##p:nth-of-type(27)
 taimienphi.vn###shownews
 taimienphi.vn###cph1_ga0
@@ -1595,6 +1599,8 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||3xphim.vip
 ||33k1.com
 ||4hfchest5kdnfnut.com
+||567liveapi001.com
+||567lives.com
 ||5123b.com
 ||5toft8or7on8tt.com
 ||6788bet.com
@@ -1757,6 +1763,10 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||egccckiurb.com
 ||e2ertt.com
 ||employeechannelinc.com
+||fun8b01.com
+||fun8b02.com
+||fun8b03.com
+||fun8b04.com
 ||fun213213.com
 ||fun7778.com
 ||fi8899.com
@@ -1853,10 +1863,11 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||ijavhd.com
 ||i99909.com
 ||i99908.com
+||iwin10.vip
+||i8bet.org
 ||imgcdnbet.com
 ||itineraryupper.com
 ||izingbalaic.casa
-||i8bet.org
 ||i8bet.net
 ||jav1s.net
 ||jav.xxx
@@ -2003,6 +2014,8 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||kichdam.vip
 ||kichduc.biz
 ||koochaud.net
+||live8800.com
+||live888.tv
 ||livetranss.com
 ||link88betvn.com
 ||linknhacai88.com
@@ -2110,6 +2123,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||phimsex2022.com
 ||phimyy.com
 ||phimporn.net
+||phim18hd.net
 ||phymsex.com
 ||propu.sh
 ||pookawnratbite.com
@@ -2139,6 +2153,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||skhcn.binhphuoc.gov.vn/Android/*
 ||soytehoabinh.gov.vn/2021/*.html
 ||ssm.codes
+||sex56789.com
 ||sunvin.vin
 ||storm-x.io
 ||smartchoice89.com
@@ -2186,6 +2201,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||tazogames.com
 ||tairikvip.org
 ||taiiwin.club
+||taiiwinclub.vip
 ||taixiu.cc
 ||taixiu.bet
 ||topbet1.com
@@ -2248,6 +2264,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||vnxxx.net
 ||voonogoa.net
 ||vuicungdafa.com
+||vnmenlust.com
 ||v9betvn.com
 ||v99bet.vip
 ||v4j9r1.tw
